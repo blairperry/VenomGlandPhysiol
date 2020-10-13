@@ -1,0 +1,46 @@
+Accumulation of lipid
+AMFR
+Apoptosis
+ATF4
+ATF6
+BCL2
+C/EBP
+CALR
+CANX
+Catabolism of protein
+CD82
+Cell survival
+DDIT3
+DNAJ
+DNAJC3
+EDEM1
+EIF2A
+EIF2AK3
+ERN1
+ERO1B
+HRD1/SEL1L
+Hsp70
+HSP90B1
+HSPA5
+HSPH1
+Initiation of translation
+INSIG1
+MAP2K7
+MAP3K5
+MAPK8
+MBTPS
+NFE2L2
+OS9
+Pdi
+PPARG
+PPP1R15A
+Refolding of protein
+SCAP
+SEL1L
+Srebp
+SYVN1
+TRAF2
+UBXN4
+Unfolding of protein
+VCP
+XBP1

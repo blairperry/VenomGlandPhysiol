@@ -1,0 +1,9 @@
+% WARNING - This is exported REVIGO data useful only for the specific purpose of constructing a TreeMap visualization.
+% Do not use this table as a general list of non-redundant GO categories, as it sets an extremely permissive 
+% threshold to detect redundancies (c=0.10) and fill the 'representative' column, while normally c>=0.4 is recommended.
+% To export a reduced-redundancy set of GO terms, go to the Scatterplot & Table tab, and export to CSV from there.
+term_ID,description,frequencyInDb,log10pvalue,uniqueness,dispensability,representative
+GO:0000151,"ubiquitin ligase complex",0.232%,-1.6435,0.187,0.000,"ubiquitin ligase complex"
+GO:0031597,"cytosolic proteasome complex",0.084%,-1.6167,0.167,0.481,"ubiquitin ligase complex"
+GO:0030687,"preribosome, large subunit precursor",0.067%,-1.5238,0.360,0.253,"ubiquitin ligase complex"
+GO:0005761,"mitochondrial ribosome",0.114%,-1.4715,0.271,0.395,"ubiquitin ligase complex"

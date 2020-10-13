@@ -1,0 +1,17 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,uniqueness,dispensability,representative,eliminated
+GO:0000049,"tRNA binding",0.670%, 0.351, 7.137,4.974,1.000,0.000,49,0
+GO:0004812,"aminoacyl-tRNA ligase activity",1.060%, 5.971,-4.286,5.174,0.846,0.000,4812,0
+GO:1901505,"carbohydrate derivative transporter activity",0.141%, 4.530, 3.116,4.297,0.699,0.000,1901505,0
+GO:0004298,"threonine-type endopeptidase activity",0.127%,-3.325, 3.429,4.253,0.800,0.025,4298,0
+GO:0016779,"nucleotidyltransferase activity",1.954%,-1.591,-5.936,5.439,0.761,0.034,16779,0
+GO:0017110,"nucleoside-diphosphatase activity",0.011%,-5.673, 0.285,3.207,0.792,0.148,17110,0
+GO:0002161,"aminoacyl-tRNA editing activity",0.232%,-5.309, 3.426,4.515,0.798,0.183,2161,0
+GO:0045134,"uridine-diphosphatase activity",0.002%,-6.163,-1.208,2.473,0.797,0.247,45134,0
+GO:0016758,"transferase activity, transferring hexosyl groups",0.898%, 0.506,-5.783,5.102,0.720,0.285,16758,0
+GO:0004576,"oligosaccharyl transferase activity",0.025%,null,null,3.555,0.741,0.591,16758,1
+GO:0016757,"transferase activity, transferring glycosyl groups",1.986%,-0.570,-6.480,5.447,0.761,0.313,16757,0
+GO:0015932,"nucleobase-containing compound transmembrane transporter activity",0.083%, 5.446, 2.367,4.067,0.665,0.330,15932,0
+GO:0005338,"nucleotide-sugar transmembrane transporter activity",0.011%, 5.247, 1.368,3.175,0.544,0.364,5338,0
+GO:0071077,"adenosine 3',5'-bisphosphate transmembrane transporter activity",0.002%,null,null,2.501,0.529,0.890,5338,1
+GO:0000295,"adenine nucleotide transmembrane transporter activity",0.015%,null,null,3.328,0.506,0.986,5338,1
+GO:0005346,"purine ribonucleotide transmembrane transporter activity",0.014%,null,null,3.282,0.507,0.785,5338,1

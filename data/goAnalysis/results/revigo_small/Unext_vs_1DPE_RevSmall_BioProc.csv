@@ -1,0 +1,33 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,uniqueness,dispensability,representative,eliminated
+GO:0009408,"response to heat",0.166%,-0.387,-6.379,4.328,0.796,0.000,9408,0
+GO:0009266,"response to temperature stimulus",0.213%,null,null,4.436,0.828,0.818,9408,1
+GO:0016242,"negative regulation of macroautophagy",0.007%,-3.941,-3.411,2.972,0.765,0.000,16242,0
+GO:1901096,"regulation of autophagosome maturation",0.002%,null,null,2.479,0.666,0.812,16242,1
+GO:0050658,"RNA transport",0.100%,-5.723, 4.242,4.107,0.873,0.000,50658,0
+GO:1901565,"organonitrogen compound catabolic process",1.195%, 6.702, 2.891,5.186,0.700,0.000,1901565,0
+GO:0030163,"protein catabolic process",0.997%,null,null,5.107,0.664,0.650,1901565,1
+GO:0044257,"cellular protein catabolic process",0.772%,null,null,4.996,0.623,0.912,1901565,1
+GO:0006511,"ubiquitin-dependent protein catabolic process",0.584%,null,null,4.874,0.629,0.791,1901565,1
+GO:0070647,"protein modification by small protein conjugation or removal",0.821%, 4.684,-2.815,5.023,0.696,0.049,70647,0
+GO:0051683,"establishment of Golgi localization",0.001%,-6.713, 1.092,2.228,0.868,0.157,51683,0
+GO:0000054,"ribosomal subunit export from nucleus",0.037%,null,null,3.673,0.708,0.658,51683,1
+GO:0048259,"regulation of receptor-mediated endocytosis",0.016%,-1.620, 3.930,3.305,0.657,0.183,48259,0
+GO:0002183,"cytoplasmic translational initiation",0.025%, 5.696,-0.190,3.501,0.654,0.254,2183,0
+GO:0001732,"formation of cytoplasmic translation initiation complex",0.004%,null,null,2.749,0.525,0.801,2183,1
+GO:0001731,"formation of translation preinitiation complex",0.070%,null,null,3.954,0.470,0.673,2183,1
+GO:0032984,"macromolecular complex disassembly",0.373%, 0.312, 6.365,4.680,0.638,0.340,32984,0
+GO:0051258,"protein polymerization",0.231%,null,null,4.471,0.633,0.626,32984,1
+GO:0043624,"cellular protein complex disassembly",0.270%,null,null,4.540,0.638,0.946,32984,1
+GO:0032543,"mitochondrial translation",0.068%, 3.302, 3.028,3.941,0.545,0.378,32543,0
+GO:2001021,"negative regulation of response to DNA damage stimulus",0.015%,-2.516,-4.403,3.276,0.673,0.428,2001021,0
+GO:2001032,"regulation of double-strand break repair via nonhomologous end joining",0.004%,null,null,2.692,0.632,0.753,2001021,1
+GO:2000780,"negative regulation of double-strand break repair",0.004%,null,null,2.747,0.617,0.873,2001021,1
+GO:0006282,"regulation of DNA repair",0.057%,null,null,3.867,0.600,0.878,2001021,1
+GO:0022411,"cellular component disassembly",0.423%, 1.198, 6.430,4.734,0.692,0.441,22411,0
+GO:0022613,"ribonucleoprotein complex biogenesis",1.614%, 0.715, 6.792,5.316,0.680,0.468,22613,0
+GO:0016567,"protein ubiquitination",0.523%, 4.411,-3.249,4.827,0.679,0.470,16567,0
+GO:0032446,"protein modification by small protein conjugation",0.607%,null,null,4.891,0.676,0.920,16567,1
+GO:0051053,"negative regulation of DNA metabolic process",0.076%,-2.505,-2.938,3.986,0.650,0.491,51053,0
+GO:0006518,"peptide metabolic process",5.961%, 5.843, 1.928,5.884,0.691,0.493,6518,0
+GO:0006412,"translation",5.686%,null,null,5.863,0.580,0.877,6518,1
+GO:0006403,"RNA localization",0.118%,-5.901, 3.660,4.179,0.874,0.497,6403,0

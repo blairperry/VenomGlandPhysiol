@@ -1,0 +1,7 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,uniqueness,dispensability,representative,eliminated
+GO:0072344,"rescue of stalled ribosome",0.001%, 0.123, 1.000,2.127,0.549,0.000,72344,0
+GO:0036498,"IRE1-mediated unfolded protein response",0.003%, 1.000, 0.123,2.558,0.010,0.123,36498,0
+GO:0030968,"endoplasmic reticulum unfolded protein response",0.027%,null,null,3.548,0.001,0.967,36498,1
+GO:0035967,"cellular response to topologically incorrect protein",0.044%,null,null,3.753,0.003,0.965,36498,1
+GO:0006986,"response to unfolded protein",0.037%,null,null,3.677,0.005,0.820,36498,1
+GO:0034620,"cellular response to unfolded protein",0.029%,null,null,3.572,0.003,0.940,36498,1

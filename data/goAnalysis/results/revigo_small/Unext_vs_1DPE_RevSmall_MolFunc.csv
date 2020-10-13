@@ -1,0 +1,4 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,uniqueness,dispensability,representative,eliminated
+GO:0031690,"adrenergic receptor binding",0.002%,-5.077,-0.013,2.520,0.216,0.000,31690,0
+GO:0003743,"translation initiation factor activity",0.411%, 4.777,-1.715,4.762,0.116,0.032,3743,0
+GO:0003723,"RNA binding",5.283%, 4.768, 1.739,5.871,0.131,0.289,3723,0

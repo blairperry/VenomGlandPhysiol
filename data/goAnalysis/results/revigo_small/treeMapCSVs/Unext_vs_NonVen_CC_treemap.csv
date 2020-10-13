@@ -1,0 +1,18 @@
+% WARNING - This is exported REVIGO data useful only for the specific purpose of constructing a TreeMap visualization.
+% Do not use this table as a general list of non-redundant GO categories, as it sets an extremely permissive 
+% threshold to detect redundancies (c=0.10) and fill the 'representative' column, while normally c>=0.4 is recommended.
+% To export a reduced-redundancy set of GO terms, go to the Scatterplot & Table tab, and export to CSV from there.
+term_ID,description,frequencyInDb,log10pvalue,uniqueness,dispensability,representative
+GO:0005789,"endoplasmic reticulum membrane",0.761%,-300.0000,0.283,0.000,"endoplasmic reticulum membrane"
+GO:0005839,"proteasome core complex",0.183%,-3.3206,0.678,0.119,"endoplasmic reticulum membrane"
+GO:0031090,"organelle membrane",2.003%,-300.0000,0.437,0.487,"endoplasmic reticulum membrane"
+GO:0071007,"U2-type catalytic step 2 spliceosome",0.004%,-2.3833,0.546,0.385,"endoplasmic reticulum membrane"
+GO:0005773,"vacuole",0.455%,-1.3805,0.516,0.351,"endoplasmic reticulum membrane"
+GO:0031984,"organelle subcompartment",0.269%,-2.3356,0.494,0.407,"endoplasmic reticulum membrane"
+GO:0031982,"vesicle",1.362%,-2.2721,0.530,0.361,"endoplasmic reticulum membrane"
+GO:0005797,"Golgi medial cisterna",0.007%,-1.7149,0.398,0.479,"endoplasmic reticulum membrane"
+GO:0048500,"signal recognition particle",0.100%,-1.4111,0.605,0.306,"endoplasmic reticulum membrane"
+GO:0005793,"endoplasmic reticulum-Golgi intermediate compartment",0.026%,-5.2052,0.593,0.275,"endoplasmic reticulum membrane"
+GO:0098805,"whole membrane",0.888%,-3.0400,0.928,0.039,"whole membrane"
+GO:0016021,"integral component of membrane",55.868%,-2.7857,0.912,0.087,"integral component of membrane"
+GO:0031224,"intrinsic component of membrane",55.975%,-2.7411,0.913,0.407,"integral component of membrane"

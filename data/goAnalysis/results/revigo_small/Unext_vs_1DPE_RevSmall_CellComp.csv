@@ -1,0 +1,10 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,uniqueness,dispensability,representative,eliminated
+GO:0030687,"preribosome, large subunit precursor",0.067%, 2.202,-1.094,3.817,0.360,0.000,30687,0
+GO:0080008,"Cul4-RING E3 ubiquitin ligase complex",0.015%,-2.284,-0.732,3.178,0.220,0.210,80008,0
+GO:0000151,"ubiquitin ligase complex",0.232%,null,null,4.358,0.187,0.586,80008,1
+GO:0031461,"cullin-RING ubiquitin ligase complex",0.159%,null,null,4.195,0.172,0.795,80008,1
+GO:0005761,"mitochondrial ribosome",0.114%, 2.230, 1.279,4.050,0.271,0.395,5761,0
+GO:0005763,"mitochondrial small ribosomal subunit",0.040%,null,null,3.597,0.289,0.927,5761,1
+GO:0005838,"proteasome regulatory particle",0.073%,-1.594, 1.528,3.858,0.173,0.395,5838,0
+GO:0031597,"cytosolic proteasome complex",0.084%,null,null,3.916,0.167,0.773,5838,1
+GO:0000502,"proteasome complex",0.389%,null,null,4.583,0.137,0.875,5838,1

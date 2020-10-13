@@ -1,0 +1,8 @@
+% WARNING - This is exported REVIGO data useful only for the specific purpose of constructing a TreeMap visualization.
+% Do not use this table as a general list of non-redundant GO categories, as it sets an extremely permissive 
+% threshold to detect redundancies (c=0.10) and fill the 'representative' column, while normally c>=0.4 is recommended.
+% To export a reduced-redundancy set of GO terms, go to the Scatterplot & Table tab, and export to CSV from there.
+term_ID,description,frequencyInDb,log10pvalue,uniqueness,dispensability,representative
+GO:0003743,"translation initiation factor activity",0.411%,-1.5297,0.116,0.000,"translation initiation factor activity"
+GO:0003723,"RNA binding",5.283%,-1.7960,0.131,0.289,"translation initiation factor activity"
+GO:0031690,"adrenergic receptor binding",0.002%,-1.4615,0.216,0.032,"adrenergic receptor binding"

@@ -1,0 +1,113 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,uniqueness,dispensability,representative,eliminated
+GO:0006629,"lipid metabolic process",3.522%,-2.515, 1.749,5.655,0.885,0.000,6629,0
+GO:0016192,"vesicle-mediated transport",1.085%,-4.977,-4.439,5.144,0.827,0.000,16192,0
+GO:0035966,"response to topologically incorrect protein",0.053%,-5.184, 3.435,3.832,0.878,0.000,35966,0
+GO:0070498,"interleukin-1-mediated signaling pathway",0.005%,null,null,2.792,0.846,0.534,35966,1
+GO:0034976,"response to endoplasmic reticulum stress",0.100%,null,null,4.106,0.872,0.564,35966,1
+GO:0035967,"cellular response to topologically incorrect protein",0.044%,null,null,3.753,0.835,0.965,35966,1
+GO:0030968,"endoplasmic reticulum unfolded protein response",0.027%,null,null,3.548,0.786,0.937,35966,1
+GO:0033554,"cellular response to stress",2.967%,null,null,5.581,0.851,0.532,35966,1
+GO:0006986,"response to unfolded protein",0.037%,null,null,3.677,0.862,0.605,35966,1
+GO:0034620,"cellular response to unfolded protein",0.029%,null,null,3.572,0.838,0.967,35966,1
+GO:0048002,"antigen processing and presentation of peptide antigen",0.013%,-6.442, 1.420,3.236,0.922,0.000,48002,0
+GO:0002479,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",0.001%,null,null,1.892,0.922,0.785,48002,1
+GO:0002478,"antigen processing and presentation of exogenous peptide antigen",0.004%,null,null,2.667,0.918,0.916,48002,1
+GO:0002474,"antigen processing and presentation of peptide antigen via MHC class I",0.010%,null,null,3.098,0.920,0.906,48002,1
+GO:0019886,"antigen processing and presentation of exogenous peptide antigen via MHC class II",0.002%,null,null,2.498,0.919,0.956,48002,1
+GO:0051084,"'de novo' posttranslational protein folding",0.011%,-4.642, 0.457,3.152,0.958,0.000,51084,0
+GO:0010256,"endomembrane system organization",0.189%,-3.237, 5.695,4.385,0.889,0.021,10256,0
+GO:0006517,"protein deglycosylation",0.008%, 1.961,-7.120,3.001,0.845,0.045,6517,0
+GO:0051453,"regulation of intracellular pH",0.028%, 2.354, 6.755,3.551,0.876,0.071,51453,0
+GO:0045454,"cell redox homeostasis",0.861%,null,null,5.043,0.857,0.668,51453,1
+GO:0090383,"phagosome acidification",0.001%,null,null,2.253,0.839,0.843,51453,1
+GO:1901135,"carbohydrate derivative metabolic process",6.319%,-1.785,-3.035,5.909,0.926,0.073,1901135,0
+GO:1901360,"organic cyclic compound metabolic process",30.324%, 0.663,-2.630,6.590,0.911,0.113,1901360,0
+GO:0043412,"macromolecule modification",9.785%, 6.862,-3.623,6.099,0.860,0.128,43412,0
+GO:0097384,"cellular lipid biosynthetic process",0.047%, 0.897, 2.944,3.781,0.873,0.143,97384,0
+GO:0006521,"regulation of cellular amino acid metabolic process",0.018%, 3.806, 5.757,3.361,0.852,0.150,6521,0
+GO:0033238,"regulation of cellular amine metabolic process",0.021%,null,null,3.438,0.874,0.631,6521,1
+GO:1901137,"carbohydrate derivative biosynthetic process",3.651%, 1.615, 1.077,5.671,0.854,0.151,1901137,0
+GO:0009225,"nucleotide-sugar metabolic process",0.250%,null,null,4.507,0.842,0.556,1901137,1
+GO:0018279,"protein N-linked glycosylation via asparagine",0.015%,null,null,3.284,0.763,0.776,1901137,1
+GO:0009100,"glycoprotein metabolic process",0.356%,null,null,4.659,0.829,0.578,1901137,1
+GO:0009101,"glycoprotein biosynthetic process",0.343%,null,null,4.643,0.789,0.576,1901137,1
+GO:0006516,"glycoprotein catabolic process",0.008%,null,null,3.023,0.741,0.745,1901137,1
+GO:0006487,"protein N-linked glycosylation",0.076%,null,null,3.992,0.738,0.874,1901137,1
+GO:0006486,"protein glycosylation",0.317%,null,null,4.610,0.712,0.983,1901137,1
+GO:1901564,"organonitrogen compound metabolic process",17.886%, 6.269, 2.237,6.361,0.887,0.154,1901564,0
+GO:0006354,"DNA-templated transcription, elongation",0.202%, 7.136, 0.969,4.413,0.832,0.174,6354,0
+GO:0043170,"macromolecule metabolic process",39.491%, 1.336,-3.221,6.705,0.909,0.211,43170,0
+GO:1901565,"organonitrogen compound catabolic process",1.195%, 4.585, 1.692,5.186,0.783,0.216,1901565,0
+GO:0030163,"protein catabolic process",0.997%,null,null,5.107,0.718,0.860,1901565,1
+GO:0009057,"macromolecule catabolic process",1.953%,null,null,5.399,0.771,0.702,1901565,1
+GO:0044257,"cellular protein catabolic process",0.772%,null,null,4.996,0.684,0.916,1901565,1
+GO:0043161,"proteasome-mediated ubiquitin-dependent protein catabolic process",0.226%,null,null,4.462,0.701,0.901,1901565,1
+GO:0044265,"cellular macromolecule catabolic process",1.268%,null,null,5.211,0.725,0.707,1901565,1
+GO:0019941,"modification-dependent protein catabolic process",0.612%,null,null,4.895,0.684,0.879,1901565,1
+GO:0043632,"modification-dependent macromolecule catabolic process",0.627%,null,null,4.905,0.730,0.817,1901565,1
+GO:0051603,"proteolysis involved in cellular protein catabolic process",0.759%,null,null,4.988,0.680,0.967,1901565,1
+GO:0010498,"proteasomal protein catabolic process",0.267%,null,null,4.535,0.705,0.750,1901565,1
+GO:0006508,"proteolysis",5.223%, 4.791,-4.924,5.826,0.801,0.222,6508,0
+GO:0044267,"cellular protein metabolic process",14.293%,null,null,6.263,0.754,0.562,6508,1
+GO:0006984,"ER-nucleus signaling pathway",0.013%, 0.563, 5.999,3.215,0.876,0.224,6984,0
+GO:1904380,"endoplasmic reticulum mannose trimming",0.001%, 1.036,-7.204,2.143,0.860,0.226,1904380,0
+GO:0016482,"cytosolic transport",0.076%,-4.660,-3.518,3.988,0.780,0.244,16482,0
+GO:0032527,"protein exit from endoplasmic reticulum",0.014%,null,null,3.256,0.770,0.510,16482,1
+GO:0006886,"intracellular protein transport",1.199%,null,null,5.187,0.689,0.896,16482,1
+GO:0046907,"intracellular transport",1.564%,null,null,5.302,0.728,0.937,16482,1
+GO:0034613,"cellular protein localization",1.546%,null,null,5.297,0.703,0.953,16482,1
+GO:0051656,"establishment of organelle localization",0.180%,null,null,4.364,0.753,0.565,16482,1
+GO:0051650,"establishment of vesicle localization",0.072%,null,null,3.963,0.758,0.899,16482,1
+GO:0051649,"establishment of localization in cell",1.679%,null,null,5.333,0.732,0.733,16482,1
+GO:0006903,"vesicle targeting",0.017%,null,null,3.337,0.693,0.812,16482,1
+GO:1901264,"carbohydrate derivative transport",0.208%,-5.715,-3.096,4.427,0.800,0.267,1901264,0
+GO:0043687,"post-translational protein modification",0.028%, 2.957,-6.796,3.562,0.833,0.268,43687,0
+GO:0048193,"Golgi vesicle transport",0.297%,-5.101,-3.975,4.581,0.763,0.277,48193,0
+GO:0035459,"cargo loading into vesicle",0.002%,null,null,2.435,0.751,0.540,48193,1
+GO:0006900,"membrane budding",0.030%,null,null,3.587,0.722,0.643,48193,1
+GO:0006888,"ER to Golgi vesicle-mediated transport",0.125%,null,null,4.204,0.706,0.827,48193,1
+GO:0006890,"retrograde vesicle-mediated transport, Golgi to ER",0.047%,null,null,3.777,0.771,0.663,48193,1
+GO:0006891,"intra-Golgi vesicle-mediated transport",0.064%,null,null,3.916,0.766,0.772,48193,1
+GO:0090114,"COPII-coated vesicle budding",0.015%,null,null,3.295,0.670,0.910,48193,1
+GO:0090110,"cargo loading into COPII-coated vesicle",0.002%,null,null,2.290,0.680,0.765,48193,1
+GO:0048194,"Golgi vesicle budding",0.004%,null,null,2.725,0.731,0.729,48193,1
+GO:0048199,"vesicle targeting, to, from or within Golgi",0.014%,null,null,3.247,0.680,0.965,48193,1
+GO:0006901,"vesicle coating",0.012%,null,null,3.189,0.726,0.848,48193,1
+GO:0048208,"COPII vesicle coating",0.011%,null,null,3.151,0.632,0.894,48193,1
+GO:0019538,"protein metabolic process",18.489%, 6.621,-2.774,6.375,0.846,0.280,19538,0
+GO:0006368,"transcription elongation from RNA polymerase II promoter",0.082%, 7.319, 2.048,4.021,0.843,0.300,6368,0
+GO:0034660,"ncRNA metabolic process",3.407%, 6.839,-0.386,5.641,0.803,0.322,34660,0
+GO:0006983,"ER overload response",0.002%,-1.302, 4.279,2.453,0.841,0.322,6983,0
+GO:1902235,"regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway",0.006%,null,null,2.862,0.823,0.674,6983,1
+GO:0036503,"ERAD pathway",0.053%,null,null,3.835,0.632,0.911,6983,1
+GO:0030433,"ER-associated ubiquitin-dependent protein catabolic process",0.049%,null,null,3.794,0.612,0.793,6983,1
+GO:0071705,"nitrogen compound transport",1.767%,-4.707,-4.780,5.355,0.820,0.334,71705,0
+GO:2000142,"regulation of DNA-templated transcription, initiation",0.026%, 2.653, 4.489,3.523,0.765,0.335,2000142,0
+GO:0007030,"Golgi organization",0.039%,-2.632, 6.302,3.701,0.885,0.345,7030,0
+GO:0070647,"protein modification by small protein conjugation or removal",0.821%, 4.081,-5.603,5.023,0.787,0.364,70647,0
+GO:0006464,"cellular protein modification process",7.726%,null,null,5.996,0.736,0.642,70647,1
+GO:0015780,"nucleotide-sugar transport",0.014%,-5.933,-2.355,3.254,0.823,0.379,15780,0
+GO:0015031,"protein transport",2.251%,null,null,5.461,0.755,0.593,15780,1
+GO:0071806,"protein transmembrane transport",0.525%,null,null,4.829,0.782,0.804,15780,1
+GO:0042886,"amide transport",0.337%,null,null,4.636,0.829,0.689,15780,1
+GO:0015833,"peptide transport",0.298%,null,null,4.582,0.810,0.540,15780,1
+GO:0008104,"protein localization",2.626%,null,null,5.527,0.773,0.912,15780,1
+GO:0045184,"establishment of protein localization",2.407%,null,null,5.490,0.768,0.943,15780,1
+GO:0006139,"nucleobase-containing compound metabolic process",26.547%, 6.002, 1.311,6.532,0.833,0.381,6139,0
+GO:0016070,"RNA metabolic process",15.951%,null,null,6.311,0.775,0.541,6139,1
+GO:0019218,"regulation of steroid metabolic process",0.016%, 3.774, 4.837,3.301,0.860,0.393,19218,0
+GO:0090181,"regulation of cholesterol metabolic process",0.004%,null,null,2.671,0.868,0.732,19218,1
+GO:0071702,"organic substance transport",4.980%,-4.485,-4.868,5.805,0.802,0.407,71702,0
+GO:0055085,"transmembrane transport",8.916%,null,null,6.058,0.790,0.684,71702,1
+GO:0006810,"transport",17.616%,null,null,6.354,0.776,0.600,71702,1
+GO:0044260,"cellular macromolecule metabolic process",34.276%, 5.976,-2.657,6.643,0.817,0.408,44260,0
+GO:0034470,"ncRNA processing",2.222%, 6.873,-0.050,5.455,0.789,0.429,34470,0
+GO:0008033,"tRNA processing",1.345%,null,null,5.237,0.797,0.820,34470,1
+GO:0006418,"tRNA aminoacylation for protein translation",1.099%,null,null,5.149,0.699,0.785,34470,1
+GO:0006399,"tRNA metabolic process",2.495%,null,null,5.505,0.789,0.871,34470,1
+GO:0061024,"membrane organization",0.759%,-2.212, 6.498,4.989,0.880,0.437,61024,0
+GO:0016050,"vesicle organization",0.130%,-3.000, 6.076,4.221,0.878,0.442,16050,0
+GO:0010499,"proteasomal ubiquitin-independent protein catabolic process",0.020%, 2.726,-5.998,3.406,0.745,0.453,10499,0
+GO:0031146,"SCF-dependent proteasomal ubiquitin-dependent protein catabolic process",0.022%,null,null,3.447,0.743,0.697,10499,1
+GO:0006450,"regulation of translational fidelity",0.303%, 4.135,-0.106,4.590,0.742,0.467,6450,0
+GO:0016255,"attachment of GPI anchor to protein",0.027%, 3.225,-3.614,3.545,0.762,0.475,16255,0
